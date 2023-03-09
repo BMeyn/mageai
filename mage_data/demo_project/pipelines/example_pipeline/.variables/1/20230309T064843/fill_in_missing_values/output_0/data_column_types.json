@@ -1,0 +1,1 @@
+{"Age": "float", "Fare": "float", "Parch": "int", "Pclass": "int", "SibSp": "int", "Survived": "int"}
