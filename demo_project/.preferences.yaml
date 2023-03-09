@@ -1,0 +1,6 @@
+sync_config:
+  branch: master
+  remote_repo_link: https://github.com/BMeyn/mageai.git
+  repo_path: null
+  sync_on_pipeline_run: true
+  type: git
